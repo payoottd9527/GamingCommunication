@@ -1,5 +1,4 @@
-(function () {
-  var eventHandlers = {};
+http://t.me/payoottdbotBot/QRweilaishijie  var eventHandlers = {};
 
   // Parse init params from location hash: for Android < 5.0, TDesktop
   var locationHash = '';
